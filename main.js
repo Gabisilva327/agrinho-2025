@@ -23,19 +23,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Viver no campo tem desafios, como o acesso limitado a serviços e infraestrutura, como saúde e educação. Além disso, a internet e a conectividade nem sempre são ideais. Mas, para mim, esses desafios são menores diante da qualidade de vida que tenho aqui",
-                afirmacao: ""
+                afirmacao: "viver no campo tem seus desafilos mais é muito bom ar puro"
             },
             {
-                texto: "Falta de Incentivos e Legislação",
-                afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
+                texto: "Para quem busca um equilíbrio, o desafio é encontrar tempo e energia para desfrutar de ambos os ambientes. Viver no campo me dá tranquilidade, mas a cidade é um polo de oportunidades. A dificuldade está em gerenciar o tempo entre esses dois mundos",
+                afirmacao: " vive na cidade ou no campo cada um temsuas vantagens"
             }
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "O que você acha que a cidade pode aprender com o campo?",
         alternativas: [
             {
-                texto: "Acredito que Falta de investimento governamental",
+                texto: "A cidade pode aprender muito sobre como viver de forma mais simples e sustentável. No campo, a relação com a natureza é mais direta e respeitosa. A cidade poderia adotar mais práticas sustentáveis, como hortas urbanas e sistemas de reciclagem mais eficientes",
                 afirmacao: "<b>Pragmatismo</b> A falta de investimento governamental na saúde pública decorre de orçamentos restritos e outras prioridades de gastos, levando a infraestrutura precária e serviços de saúde insuficientes."
             },
             {
