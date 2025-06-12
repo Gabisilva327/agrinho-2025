@@ -9,21 +9,21 @@ const perguntas = [
         enunciado: "Como você se sente em relação à vida no campo?",
         alternativas: [
             {
-                texto: Eu "sinto uma paz e tranquilidade imensa no campo. O ar fresco, o contato direto com a natureza e o ritmo mais lento de vida são uma verdadeira conexão com o que é essencial. A vida aqui parece mais autêntica, sem a correria da cidade.",
-                afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
+                texto: "Eu sinto uma paz e tranquilidade imensa no campo. O ar fresco, o contato direto com a natureza e o ritmo mais lento de vida são uma verdadeira conexão com o que é essencial. A vida aqui parece mais autêntica, sem a correria da cidade.",
+                afirmacao: "pessoa que vive no campo ou tem uma ligação forte com ele."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
-                afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
+                texto: "Adoro o campo, mas também gosto do dinamismo da cidade. No campo, encontro o descanso e a serenidade que preciso, enquanto a cidade oferece as oportunidades de crescimento profissional e cultural. Acredito que o equilíbrio entre ambos pode trazer o melhor dos dois mundos.",
+                afirmacao: "pessoa que gosta de ambos, campo e cidade"
             }
         ]
     },
     {
-        enunciado: "A falta de consciência ambiental e a baixa adesão a práticas sustentáveis acontecem por vários motivos, entre os quais destacam-se:",
+        enunciado: "Quais os maiores desafios de viver em um ambiente rural ou urbano?",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
-                afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
+                texto: "Viver no campo tem desafios, como o acesso limitado a serviços e infraestrutura, como saúde e educação. Além disso, a internet e a conectividade nem sempre são ideais. Mas, para mim, esses desafios são menores diante da qualidade de vida que tenho aqui",
+                afirmacao: ""
             },
             {
                 texto: "Falta de Incentivos e Legislação",
